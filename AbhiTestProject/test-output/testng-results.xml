@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-21T22:54:27 EDT" name="Default suite" finished-at="2021-09-21T22:54:52 EDT" duration-ms="24458">
+    <groups>
+    </groups>
+    <test started-at="2021-09-21T22:54:27 EDT" name="Default test" finished-at="2021-09-21T22:54:52 EDT" duration-ms="24458">
+      <class name="com.ww.tests.WWTests">
+        <test-method signature="TestBrowserOpensSuccessfully()[pri:1, instance:com.ww.tests.WWTests@1bb266b3]" started-at="2021-09-21T22:54:27 EDT" name="TestBrowserOpensSuccessfully" finished-at="2021-09-21T22:54:39 EDT" duration-ms="11364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestBrowserOpensSuccessfully -->
+        <test-method signature="TestPageTitle()[pri:2, instance:com.ww.tests.WWTests@1bb266b3]" started-at="2021-09-21T22:54:39 EDT" name="TestPageTitle" finished-at="2021-09-21T22:54:39 EDT" duration-ms="246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestPageTitle -->
+        <test-method signature="FindClosestStudio()[pri:3, instance:com.ww.tests.WWTests@1bb266b3]" started-at="2021-09-21T22:54:39 EDT" name="FindClosestStudio" finished-at="2021-09-21T22:54:43 EDT" duration-ms="4171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FindClosestStudio -->
+        <test-method signature="VerifyLocationTitleMatchesResult()[pri:4, instance:com.ww.tests.WWTests@1bb266b3]" started-at="2021-09-21T22:54:43 EDT" name="VerifyLocationTitleMatchesResult" finished-at="2021-09-21T22:54:47 EDT" duration-ms="3761" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLocationTitleMatchesResult -->
+        <test-method signature="CheckBusinessHours()[pri:5, instance:com.ww.tests.WWTests@1bb266b3]" started-at="2021-09-21T22:54:47 EDT" name="CheckBusinessHours" finished-at="2021-09-21T22:54:51 EDT" duration-ms="4195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckBusinessHours -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.ww.tests.WWTests@1bb266b3]" started-at="2021-09-21T22:54:51 EDT" name="teardown" finished-at="2021-09-21T22:54:52 EDT" duration-ms="645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.ww.tests.WWTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
